@@ -2,9 +2,15 @@ h1{
     font-size: 60px;
 }
 
-h3{font-size: 100px;
-}
+/*h3{font-size: 100px;
+}*/
 
 .familiatexto{font-family:"papiro" ;
+font-size: 15px;    
     font-size: 2em;
+    color:#0A0808;
+    text-align: justify;
+}
+body{
+    background-color: brown;
 }
