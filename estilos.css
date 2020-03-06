@@ -11,6 +11,22 @@ font-size: 15px;
     color:#0A0808;
     text-align: justify;
 }
-body{
-    background-color: brown;
+.bodyprincipal{
+    background-color:blueviolet;
 }
+.fondoheaderprincipal{
+    background-color: rgb(9, 36, 20);
+}
+.fondohederpagina1{
+    background-color: cyan;
+}
+.imagenfondo{
+    background-image:url(img/medellin.jpg) ;
+    height: 600px;
+    background-attachment: fixed;
+
+}
+.textorojo{
+    background-color: red;
+}
+
