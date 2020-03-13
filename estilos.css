@@ -29,4 +29,10 @@ font-size: 15px;
 .textorojo{
     background-color: red;
 }
-
+table,td{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+tr:hover{
+    background-color: darkblue;
+}
